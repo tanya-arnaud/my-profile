@@ -1,0 +1,90 @@
+body{
+	font-family: 'PT Sans', sans-serif;
+	color: rgb(30, 30, 30);
+	text-align: center;
+	text-decoration: none;
+	margin: 10px;
+	padding: 30px;
+	border: 2px dotted black
+	border-radius: 4px;
+	background-color: #B0C4DE;
+}
+h1{
+	font-size: 54px;
+	text-align: center;
+}
+h3{
+	font-size: 16px;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+img{
+	width: 170px;
+	height: 170px;
+	border-radius: 50%;
+	max-width: 100%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-white1{
+	background: white;                         
+	padding: 50px;                             
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+	margin: 40px;
+	padding: 20px;
+}
+.card-white2{
+	background: white;                         
+	padding: 50px;                             
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+	margin: 40px;
+	padding: 20px;
+}
+.card-white3{
+	background: white;                         
+	padding: 50px;                             
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+	margin: 40px;
+	padding: 20px;
+}
+.card-white4{
+	background: white;                         
+	padding: 50px;                             
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+	margin: 40px;
+	padding: 20px;
+}
+.card-white5{
+	font-size: 200px;
+	color: black;
+}
+.container {
+	width: 700px; 
+	margin: 40px auto; 
+}
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+@media (max-width: 540px) {
+  .card-white {
+    width: 300px;
+  }
